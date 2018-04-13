@@ -1,0 +1,386 @@
+p01a
+My name is John  =>  John
+My name is Bill  =>  Bill
+My name is Josh  =>  Josh
+My name is Albert  =>  Albert
+My name is Richard  =>  Richard
+
+p01
+My name is John.  =>  John
+My name is Bill.  =>  Bill
+My name is Josh.  =>  Josh
+My name is Albert.  =>  Albert
+My name is Richard.  =>  Richard
+
+p02
+james  =>  james.
+charles  =>  charles.
+thomas  =>  thomas.
+paul  =>  paul.
+chris  =>  chris.
+
+p03a
+Arthur Joe Juan  =>  AJJ
+Jose Larry Scott =>  JLS
+Kevin Jason Matthew  =>  KJM
+Donald Steven George  =>  DSG
+Raymond Frank Timothy  =>  RFT
+
+p03b
+Arthur Joe Juan  =>  A.J.J.
+Jose Larry Scott =>  J.L.S.
+Kevin Jason Matthew  =>  K.J.M.
+Donald Steven George  =>  D.S.G.
+Raymond Frank Timothy  =>  R.F.T.
+
+p03
+Arthur Joe Juan  =>  A. J. J.
+Jose Larry Scott =>  J. L. S.
+Kevin Jason Matthew  =>  K. J. M.
+Donald Steven George  =>  D. S. G.
+Raymond Frank Timothy  =>  R. F. T.
+
+p04
+jim.smith@gmail.com  =>  Jim Smith
+ruby.clinton@mit.edu  =>  Ruby Clinton
+jim.james@fas.harvard.edu  =>  Jim James
+brent.harold@hotmail.com  =>  Brent Harold
+matthew.rosman@yahoo.com  =>  Matthew Rosman
+
+p06a
+CORN 15Z  =>  15Z
+DBL NDL 3.6 OZ  =>  3.6 OZ
+HD SC SPNG 1 PK  =>  1 PK
+WORCESTERSHIRE 5 Z  =>  5 Z
+TOMATO PASTE 6 OZ  =>  6 OZ
+
+p06
+BTR KRNL WK CORN 15Z  =>  15Z
+O F TOMATO PASTE 6 OZ  =>  6 OZ
+CAMP DRY DBL NDL 3.6 OZ  =>  3.6 OZ
+CHORE BOY HD SC SPNG 1 PK  =>  1 PK
+FRENCH WORCESTERSHIRE 5 Z  =>  5 Z
+
+p07
+Company\Code\index.html   =>  Company\Code\
+Company\Docs\Spec\specs.doc   =>  Company\Docs\Spec\
+Work\Presentations\talk.ppt  =>  Work\Presentations\
+Work\Records\2010\January.dat  =>  Work\Records\2010\
+Proj\Numerical\Simulators\NBody\nbody.c  =>  Proj\Numerical\Simulators\NBody\
+
+p08a
+British Telecom => BT
+British Petroleum => BP
+Kentucky Fried Chicken => KFC
+Donna Karan New York => DKNY
+Very Large Data Bases => VLDB
+Computer Aided Verification => CAV
+International Business Machines   =>  IBM
+Principles Of Programming Languages  =>  POPL
+Neural Information Processing Systems  =>  NIPS
+International Conference on Software Engineering  =>  ICSE
+International Conference on Functional Programming  =>  ICFP
+
+p08
+International Business Machines   =>  IBM
+Principles Of Programming Languages  =>  POPL
+Neural Information Processing Systems  =>  NIPS
+International Conference on Software Engineering  =>  ICSE
+International Conference on Functional Programming  =>  ICFP
+
+p10
+Oege de Moor  =>  Oege de Moor
+Kathleen Fisher AT&T Labs  =>  Kathleen Fisher AT&T Labs
+Microsoft Research  =>  Microsoft Research
+John Morse Institute  =>  John Morse Institute
+Jennifer Smith Law Firm  =>  Jennifer Smith Law Firm
+
+p11
+1/21/2001  =>  01
+22.02.2002   =>  02
+2003-23-03  =>  03
+21/1/2001  =>  01
+5/5/1987  =>  87
+
+p12a
+Bill Gates  =>  Gates,B
+Eran Yahav  =>  Yahav,E
+Ken McMillan =>  McMillan,K
+Kathleen Fisher  =>  Fisher,K
+George Ciprian Necula  =>  Necula,G
+
+p12b
+Bill Gates  =>  Gates,B.
+Eran Yahav  =>  Yahav,E.
+Ken McMillan =>  McMillan,K.
+Kathleen Fisher  =>  Fisher,K.
+George Ciprian Necula  =>  Necula,G.
+
+p12
+Dr. Eran Yahav  =>  Yahav,E.
+Prof. Kathleen S. Fisher  =>  Fisher,K.
+Bill Gates, Sr.  =>  Gates,B.
+George Ciprian Necula  =>  Necula,G.
+Ken McMillan, II  =>  McMillan,K.
+
+p14
+1112011  =>  1/11/2011
+12012011  =>  12/1/2011
+1252010  =>  1/25/2010
+11152011  =>  11/15/2011
+6222005  =>  6/22/2005
+
+p15a
+Kevin Ellis  =>  Ellis,Kevin
+Eyal Dechter  =>  Dechter,Eyal
+Dianhuan Lin  =>  Lin,Dianhuan
+Joshua Tenenbaum  =>  Tenenbaum,Joshua
+Stephen Muggleton  =>  Muggleton,Stephen
+
+p15b
+Kevin Ellis  =>  Ellis, Kevin
+Eyal Dechter  =>  Dechter, Eyal
+Dianhuan Lin  =>  Lin, Dianhuan
+Joshua Tenenbaum  =>  Tenenbaum, Joshua
+Stephen Muggleton  =>  Muggleton, Stephen
+
+p15
+Kevin Ellis  =>  Ellis, Kevin
+Eyal Dechter  =>  Dechter, Eyal
+Dianhuan Lin  =>  Lin, Dianhuan
+Joshua B. Tenenbaum  =>  Tenenbaum, Joshua B.
+Stephen H. Muggleton  =>  Muggleton, Stephen H.
+
+p16
+12/32/13  =>  12.32.2013
+1/23/2009  =>  1.23.2009
+4/12/2023  =>  4.12.2023
+6/23/15  =>  6.23.2015
+7/15/2015  =>  7.15.2015
+
+p17
+IaN RoDny  =>  Ian Rodny
+miKe dwIGHT  =>  Mike Dwight
+mary gelman  =>  Mary Gelman
+MELVIN Julian  =>  Melvin Julian
+StaNleY TRAVis  =>  Stanley Travis
+
+p19
+3 Ames St., Portland, OR 02142  =>  Portland
+47 Foskett St. #2, Cambridge, MA 02144  =>  Cambridge
+43 Vassar St. 46-4053, Cambridge, MA 02139  =>  Cambridge
+3113 Greenfield Ave., Los Angeles, CA 90034  =>  Los Angeles
+43 Margaret St. #1, Dorchester, MA 02125  =>  Dorchester
+
+p20
+Joanie Faas =>  J.F.
+Annita Nicely =>  A.N.
+Verlene Ottley =>  V.O.
+Oma Cornelison =>  O.C.
+Marin Lorentzen =>  M.L.
+
+p22a
+<os>  =>  os
+<sys.h>  =>  sys
+<stdio.h>  =>  stdio
+<malloc.h>  =>  malloc
+<stdlib>  =>  stdlib
+
+p22b
+<os>  =>  OS
+<sys.h>  =>  SYS
+<stdio.h>  =>  STDIO
+<malloc.h>  =>  MALLOC
+<stdlib>  =>  STDLIB
+
+p22c
+#include <os>  =>  os
+#include <sys.h>  =>  sys
+#include <stdio.h>  =>  stdio
+#include <malloc.h>  =>  malloc
+#include <stdlib>  =>  stdlib
+
+p22
+#include <os>  =>  OS
+#include <sys.h>  =>  SYS
+#include <stdio.h>  =>  STDIO
+#include <malloc.h>  =>  MALLOC
+#include <stdlib>  =>  STDLIB
+
+p23a
+James Brown => James Brown JB
+Niles Rodgers => Niles Rodgers NR
+David Lee Roth => David Lee Roth DLR
+Harvard University  =>  Harvard University HU
+Colorado University  =>  Colorado University CU
+Imperial College at London  =>  Imperial College at London ICL
+California Institute of Technology  =>  California Institute of Technology CIT
+Massachusetts Institute of Technology  => Massachusetts Institute of Technology MIT
+
+p23
+Harvard University  =>  Harvard University (HU)
+Colorado University  =>  Colorado University (CU)
+Imperial College at London  =>  Imperial College at London (ICL)
+California Institute of Technology  =>  California Institute of Technology (CIT)
+Massachusetts Institute of Technology  =>  Massachusetts Institute of Technology (MIT)
+
+p24a
+this is line one  => one line is this
+another line here  => here line another
+not actually last line  =>  line last actually not
+finally is the last line  => line last the is finally
+more lines come afterwards  => afterwards come lines more
+
+p24
+This is line one  =>  One line is this
+Another line here  =>  Here line another
+More lines come afterwards  =>  Afterwards come lines more
+Finally is the last line  =>  Line last the is finally
+Not actually last line  =>  Line last actually not
+
+p25
+qwerty  =>  ytrewq
+dvorak  =>  karovd
+upsilon  =>  nolispu
+gamma  =>  ammag
+psi  =>  isp
+
+p26
+159  =>  159951
+334  =>  334433
+83444  =>  8344444438
+991  =>  991199
+4179  =>  41799714
+
+p27
+abc  =>  abcc
+xyz  =>  xyzz
+
+p29
+January 8  =>  January
+July 4, 2015  =>  July
+December 1990  =>  December
+August 12, 1993  =>  August
+2007 (September)  =>  September
+
+p30a
+3 Ames St=>  Ames
+47 Foskett St =>  Foskett
+43 Vassar St =>  Vassar
+3113 Greenfield Ave =>  Greenfield
+43 Margaret St =>  Margaret
+
+p30
+3 Ames St., Portland, OR 02142  =>  Ames
+47 Foskett St. #2, Cambridge, MA 02144  =>  Foskett
+43 Vassar St. 46-4053, Cambridge, MA 02139  =>  Vassar
+3113 Greenfield Ave., Los Angeles, CA 90034  =>  Greenfield
+43 Margaret St. #1, Dorchester, MA 02125  =>  Margaret
+
+p31a
+3 Ames St =>  3
+47 Foskett St =>  47
+43 Vassar St =>  43
+3113 Greenfield Ave =>  3113
+43 Margaret St =>  43
+
+p31
+3 Ames St., Portland, OR 02142  =>  3
+47 Foskett St. #2, Cambridge, MA 02144  =>  47
+43 Vassar St. 46-4053, Cambridge, MA 02139  =>  43
+3113 Greenfield Ave., Los Angeles, CA 90034  =>  3113
+43 Margaret St. #1, Dorchester, MA 02125  =>  43
+
+p32
+3 Ames St., Portland, OR 02142  =>  OR
+47 Foskett St. #2, Cambridge, MA 02144  =>  MA
+43 Vassar St. 46-4053, Cambridge, MA 02139  =>  MA
+3113 Greenfield Ave., Los Angeles, CA 90034  =>  CA
+43 Margaret St. #1, Dorchester, MA 02125  =>  MA
+
+
+phead
+Harvard University  =>  H
+Colorado University  =>  C
+Imperial College at London  =>  I
+California Institute of Technology  =>  C
+Massachusetts Institute of Technology  =>  M
+
+ptail
+Harvard University  =>  arvard University
+Colorado University  =>  olorado University
+Imperial College London  =>  mperial College London
+California Institute of Technology  =>  alifornia Institute of Technology
+Massachusetts Institute of Technology  =>  assachusetts Institute of Technology
+
+plast
+Harvard University => y
+Colorado University => y
+Imperial College London => n
+California Institute of Technology => y
+Massachusetts Institute of Technology => y
+
+pdroplast
+droplast => droplas
+Oxford University => Oxford Universit
+Harvard University => Harvard Universit
+Imperial College London => Imperial College Londo
+Massachusetts Institute of Technology => Massachusetts Institute of Technolog
+
+preverse
+james => semaj
+charles => selrahc
+thomas => samoht
+paul => luap
+chris => sirhc
+
+pmin([9,13,1,8,4],[1]).
+pmin([1,18,20,6,15,5],[1]).
+pmin([12,16,18,6,15,3,5],[3]).
+pmin([16,1,4,12,3,18,2,14],[1]).
+pmin([12,17,5,13,6,4,14,2,15],[2]).
+
+ppartition([3,2,4,1],[2,1,3,4]).
+ppartition([3,2,5,4,1],[2,1,3,5,4]).
+ppartition([2,5,6,4,1],[4,1,2,5,6]).
+
+psum([1,2,3],[6]).
+psum([1,0,1,0],[2]).
+psum([2,2,2,2],[8]).
+psum([1,2,3,1],[7]).
+psum([1,2,3,1,3],[10]).
+
+pdouble
+ab => aabb
+abb => aabbbb
+aba => aabbaa
+abab => aabbaabb
+hello => hheelllloo
+
+pcopy
+ab => abab
+abb => abbabb
+abab => abababab
+abbb => abbbabbb
+popl => poplpopl
+
+date1
+290852 => 29.08.52
+170654 => 17.06.54
+290764 => 29.07.64
+220171 => 22.01.71
+300410 => 30.04.10
+
+date2
+290852 => 082952
+170654 => 061754
+290764 => 072964
+220171 => 012271
+300410 => 043010
+
+date3
+290852 => 08.29.52
+170654 => 06.17.54
+290764 => 07.29.64
+220171 => 01.22.71
+300410 => 04.30.10
