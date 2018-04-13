@@ -1,6 +1,8 @@
 # mlj18-metaopt
 Code and experimental data for the paper:
+
 A. Cropper and S.H. Muggleton. Learning efficient logic programs. Machine learning journal. In press.
+
 http://andrewcropper.com/pubs/mlj18-metaopt.pdf
 
 For each experiment:
