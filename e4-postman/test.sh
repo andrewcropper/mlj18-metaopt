@@ -1,5 +1,5 @@
-# rm -rf results
-# mkdir results
+rm -rf results
+mkdir results
 
 function metagol {
   k=$1
@@ -28,7 +28,6 @@ function metaopt {
 function f {
   k=$1
   for n in 2 4 6 8 10 12 14
-  # for n in 14
   do
     echo $k $n
     metagol $k $n
@@ -36,10 +35,7 @@ function f {
   done
 }
 
-# for k in `seq 2`
-# do
-#     f $k
-# done
-
-
-f $1
+for k in `seq 20`
+do
+    f $k
+done

@@ -1,3 +1,5 @@
+rm -rf results
+mkdir results
 function metaopt {
   m=$1
   k=$2
@@ -28,4 +30,7 @@ function f {
   done
 }
 
-f  $1
+for k in `seq 20`
+do
+    f $k
+done

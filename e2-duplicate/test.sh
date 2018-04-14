@@ -1,5 +1,5 @@
-# rm -rf results
-# mkdir results
+rm -rf results
+mkdir results
 
 function metagol {
   k=$1
@@ -56,9 +56,7 @@ function f {
   done
 }
 
-f $1
-# for k in `seq 1 4`
-# for k in `seq 1 20`
-# do
-#     f $k
-# done
+for k in `seq 1 20`
+do
+    f $k
+done
